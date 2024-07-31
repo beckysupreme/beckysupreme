@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bereket Getnet</h1>
-<h3 align="center">Full-Stack Developer | Specializing in Python, JavaScript, C#, and Java | Creator of Ethiopian Tour and Travel app</h3>
+<h3 align="center">Full-Stack Developer | Specializing in Python, JavaScript, C#, and Java</h3>
 <!-- <img align="right" alt="Coding" width="400" src="[https://pin.it/14vlwGt9L](https://dribbble.com/shots/3848914-Programmer-Thomas)"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beckysupreme&label=Profile%20views&color=0e75b6&style=flat" alt="beckysupreme" /> </p>
